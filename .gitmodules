@@ -1,0 +1,4 @@
+[submodule "sdcc"]
+	path = sdcc
+	url = https://github.com/llvm-z80/sdcc.git
+	shallow = true

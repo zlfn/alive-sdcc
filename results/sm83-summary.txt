@@ -1,0 +1,110 @@
+peeph-sm83-59: 2/7 fail; differ H:1 L:1; without flags: 2/7 fail
+peeph-sm83-68: 2/7 fail; differ H:1 L:1; without flags: 2/7 fail
+peeph-sm83-155: 21/77 fail; differ H:9 L:12; without flags: 21/77 fail
+peeph-sm83-166: 232/232 fail; differ HF:15 L:5; without flags: 232/232 fail
+peeph-sm83-179: 232/232 fail; differ L:20; without flags: 232/232 fail
+peeph-sm83-192: 1/1 fail; differ HF:1; without flags: 0 fail
+peeph-sm83-200: 1/1 fail; differ CF:1 HF:1; without flags: 0 fail
+peeph-sm83-340: 1/1 fail; differ A:1
+peeph-sm83-362: 44/44 not proved: the rule's code has a loop, which a proof cannot follow
+peeph-sm83-402: 1/4 fail; differ memory:1; without flags: 1/4 fail
+peeph-sm83-410: 6/12 fail; differ memory:6; without flags: 6/12 fail
+peeph-sm83-421: 1/1 fail; differ NF:1; without flags: 0 fail
+peeph-sm83-451: 1/1 fail; differ CF:1 HF:1; without flags: 0 fail
+peeph-27: 210/2658 fail; differ A:14 B:6; operands overlap:28 of 40 shown; without flags: 210/2658 fail
+peeph-43: no case assembles: tools/../rules/sm83.rules:740:10: error: invalid operand for instruction
+peeph-49: 4/4 fail; differ HF:4; without flags: 0 fail
+peeph-61: 4/4 fail; differ ZF:4; without flags: 0 fail
+peeph-67: no case assembles: tools/../rules/sm83.rules:785:10: error: invalid operand for instruction
+peeph-74: no case assembles: tools/../rules/sm83.rules:793:2: error: instruction requires a CPU feature not currently enabled
+peeph-83: no case assembles: tools/../rules/sm83.rules:804:2: error: instruction requires a CPU feature not currently enabled
+peeph-124: no case assembles: tools/../rules/sm83.rules:875:2: error: instruction requires a CPU feature not currently enabled
+peeph-131: no case assembles: tools/../rules/sm83.rules:882:2: error: instruction requires a CPU feature not currently enabled
+peeph-154: no case assembles: tools/../rules/sm83.rules:935:2: error: immediate operand out of range
+peeph-162: 1/1 fail; differ NF:1; without flags: 0 fail
+peeph-171: 472/6837 fail; differ A:11 memory:9; operands overlap:40 of 40 shown; without flags: 472/6837 fail
+peeph-183: no case assembles: tools/../rules/sm83.rules:996:2: error: instruction requires a CPU feature not currently enabled
+peeph-353: no case assembles: tools/../rules/sm83.rules:1177:7: error: invalid operand for instruction
+peeph-361: no case assembles: tools/../rules/sm83.rules:1187:2: error: instruction requires a CPU feature not currently enabled
+peeph-370: no case assembles: tools/../rules/sm83.rules:1197:2: error: instruction requires a CPU feature not currently enabled
+peeph-379: no case assembles: tools/../rules/sm83.rules:1212:2: error: instruction requires a CPU feature not currently enabled
+peeph-388: no case assembles: tools/../rules/sm83.rules:1223:2: error: instruction requires a CPU feature not currently enabled
+peeph-407: no case assembles: tools/../rules/sm83.rules:1251:2: error: instruction requires a CPU feature not currently enabled
+peeph-426: no case assembles: tools/../rules/sm83.rules:1303:7: error: invalid operand for instruction
+peeph-446: no case assembles: tools/../rules/sm83.rules:1337:2: error: instruction requires a CPU feature not currently enabled
+peeph-456: no case assembles: tools/../rules/sm83.rules:1348:2: error: instruction requires a CPU feature not currently enabled
+peeph-466: no case assembles: tools/../rules/sm83.rules:1367:2: error: instruction requires a CPU feature not currently enabled
+peeph-476: no case assembles: tools/../rules/sm83.rules:1384:2: error: instruction requires a CPU feature not currently enabled
+peeph-499: 4/12 fail; differ memory:4; without flags: 4/12 fail
+peeph-552: 3/3 fail; differ HF:2 L:1; without flags: 1/3 fail
+peeph-598: 3/24 fail; differ memory:3; near SP:6 of 6 shown; without flags: 3/24 fail
+peeph-624: 21/21 fail; differ A:20; near SP:40 of 40 shown; without flags: 21/21 fail
+peeph-668: 4/4 fail; differ memory:4; near SP:8 of 8 shown; without flags: 4/4 fail
+peeph-686: 2/2 fail; differ A:2; near SP:4 of 4 shown; without flags: 2/2 fail
+peeph-734: 1/4 fail; differ memory:1; without flags: 1/4 fail
+peeph-756: no case assembles: tools/../rules/sm83.rules:1748:6: error: invalid operand for instruction
+peeph-765: 82/184 fail; differ SP:4 memory:16; near SP:32 of 40 shown; without flags: 82/184 fail
+peeph-951: no case assembles: tools/../rules/sm83.rules:1859:2: error: instruction requires a CPU feature not currently enabled
+peeph-1015: 1/1 fail; differ CF:1; near SP:1 of 1 shown; without flags: 0 fail
+peeph-1245: 8/8 fail; differ HF:8 ZF:8; without flags: 0 fail
+peeph-1278: 8/8 fail; differ HF:8; without flags: 0 fail
+peeph-1287: 1/1 fail; differ HF:1 ZF:1; without flags: 0 fail
+peeph-1297: 1/1 fail; differ HF:1 ZF:1; without flags: 0 fail
+peeph-1315: 3/3 fail; differ HF:3; without flags: 0 fail
+peeph-1324: 3/3 fail; differ HF:3; without flags: 0 fail
+peeph-1341: 3/3 fail; differ HF:3; without flags: 0 fail
+peeph-1350: 3/3 fail; differ HF:3; without flags: 0 fail
+peeph-1547: 2/2 fail; differ memory:2; without flags: 2/2 fail
+peeph-1567: no case assembles: tools/../rules/sm83.rules:2699:2: error: instruction requires a CPU feature not currently enabled
+peeph-1575: no case assembles: tools/../rules/sm83.rules:2710:9: error: expected ix or iy register
+peeph-1594: 3/7 fail; differ A:2 ZF:3; without flags: 2/7 fail
+peeph-1622: 9/9 fail; differ HF:9; without flags: 0 fail
+peeph-1665: 1/1 fail; differ NF:1; without flags: 0 fail
+peeph-1673: 7/7 fail; differ NF:7; without flags: 0 fail
+peeph-1684: no case assembles: tools/../rules/sm83.rules:2831:10: error: invalid operand for instruction
+peeph-1695: 216/216 fail; differ NF:20; without flags: 0 fail
+peeph-1726: 1190/3844 fail; differ B:15 C:4 D:1 E:1 H:1 L:1 memory:2; without flags: 1190/3844 fail
+peeph-1737: 8/112 fail; differ memory:8; without flags: 8/112 fail
+peeph-1799: 1/1 fail; differ HF:1 ZF:1; without flags: 0 fail
+peeph-1832: 1/1 fail; differ ZF:1; without flags: 0 fail
+peeph-1848: 1/1 fail; differ ZF:1; without flags: 0 fail
+peeph-1864: no case assembles: tools/../rules/sm83.rules:3051:2: error: instruction requires a CPU feature not currently enabled
+peeph-1879: 2/7 fail; differ memory:2; without flags: 2/7 fail
+peeph-1888: 192/624 fail; differ A:19 CF:6 HF:8 ZF:15; without flags: 184/624 fail
+peeph-1898: 5/42 fail; differ CF:2 HF:2 ZF:5; without flags: 0 fail
+peeph-1952: 4/4 fail; differ HF:3 L:1; without flags: 1/4 fail
+peeph-2090: 6/6 not proved: the rule's code has a loop, which a proof cannot follow
+peeph-2110: 154/154 not proved: the rule's code has a loop, which a proof cannot follow
+peeph-2139: 154/154 not proved: the rule's code has a loop, which a proof cannot follow
+peeph-2168: 4/4 fail; differ HF:3 L:1; without flags: 1/4 fail
+peeph-2179: 4/4 fail; differ HF:3 L:1; without flags: 1/4 fail
+peeph-2189: 4/4 fail; differ HF:3 L:1; without flags: 1/4 fail
+peeph-2199: 4/4 fail; differ CF:4 HF:4 L:1; without flags: 1/4 fail
+peeph-2268: no case assembles: tools/../rules/sm83.rules:3600:2: error: instruction requires a CPU feature not currently enabled
+peeph-2281: no case assembles: tools/../rules/sm83.rules:3615:2: error: instruction requires a CPU feature not currently enabled
+peeph-2292: no case assembles: tools/../rules/sm83.rules:3635:2: error: instruction requires a CPU feature not currently enabled
+peeph-2303: 2/2 fail; differ CF:2 HF:2 NF:2 ZF:2; without flags: 0 fail
+peeph-2328: no case assembles: tools/../rules/sm83.rules:3681:2: error: instruction requires a CPU feature not currently enabled
+peeph-2338: 11/717 fail; differ H:3 L:4 memory:5; operands overlap:6 of 22 shown; without flags: 11/717 fail
+peeph-2358: 1/1 fail; differ NF:1; without flags: 0 fail
+peeph-2369: no case assembles: tools/../rules/sm83.rules:3736:2: error: instruction requires a CPU feature not currently enabled
+peeph-2379: no case assembles: tools/../rules/sm83.rules:3748:2: error: instruction requires a CPU feature not currently enabled
+peeph-2389: no case assembles: tools/../rules/sm83.rules:3760:2: error: instruction requires a CPU feature not currently enabled
+peeph-2399: no case assembles: tools/../rules/sm83.rules:3772:2: error: instruction requires a CPU feature not currently enabled
+peeph-2407: no case assembles: tools/../rules/sm83.rules:3782:2: error: instruction requires a CPU feature not currently enabled
+peeph-2415: no case assembles: tools/../rules/sm83.rules:3796:2: error: instruction requires a CPU feature not currently enabled
+peeph-2527: 6/48 fail; differ A:2 L:6; without flags: 6/48 fail
+peeph-2547: no case assembles: tools/../rules/sm83.rules:3849:2: error: instruction requires a CPU feature not currently enabled
+peeph-2602: 1/1 fail; differ HF:1 NF:1; without flags: 0 fail
+peeph-2609: 8/12 fail; differ NF:8; without flags: 0 fail
+peeph-2834: no case assembles: tools/../rules/sm83.rules:4257:2: error: instruction requires a CPU feature not currently enabled
+peeph-2844: 2/62 fail; differ memory:2; without flags: 2/62 fail
+peeph-2869: 1/1 fail; differ memory:1; near SP:2 of 2 shown; without flags: 1/1 fail
+peeph-2878: 3/3 fail; differ memory:3; near SP:6 of 6 shown; without flags: 3/3 fail
+peeph-2949: 1/1 fail; differ HF:1; without flags: 0 fail
+peeph-2961: 1/1 fail; differ CF:1; without flags: 0 fail
+peeph-2975: 32448/32448 fail; differ HF:4 NF:16 ZF:2; without flags: 5670/32448 fail
+peeph-2997: at least 1/32448 fail; differ HF:1; near SP:5 of 21 shown; without flags: 8832/32448 fail
+peeph-3020: 27/27 fail; differ CF:14 HF:14 NF:6 ZF:13 exit:14; without flags: 18/27 fail
+peeph-3028: 243/243 fail; differ CF:14 HF:14 NF:6 ZF:13 exit:14; without flags: 162/243 fail
+peeph-3087: no case assembles: tools/../rules/sm83.rules:4514:10: error: invalid operand for instruction

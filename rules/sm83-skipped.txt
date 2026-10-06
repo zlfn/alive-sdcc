@@ -1,0 +1,61 @@
+peeph.def:196: %3 has no operand on the SM83
+peeph.def:204: %4 has no operand on the SM83
+peeph.def:213: %3 has no operand on the SM83
+peeph.def:223: %3 has no operand on the SM83
+peeph.def:233: %1 has no operand on the SM83
+peeph.def:273: %2 has no operand on the SM83
+peeph.def:283: %3 has no operand on the SM83
+peeph.def:610: %3 has no operand on the SM83
+peeph.def:640: canAssign() never holds
+peeph.def:647: canAssign() never holds
+peeph.def:654: %3 has no operand on the SM83
+peeph.def:725: %3 has no operand on the SM83
+peeph.def:814: %3 has no operand on the SM83
+peeph.def:823: %4 has no operand on the SM83
+peeph.def:832: %4 has no operand on the SM83
+peeph.def:841: %4 has no operand on the SM83
+peeph.def:851: %4 has no operand on the SM83
+peeph.def:861: %4 has no operand on the SM83
+peeph.def:870: %4 has no operand on the SM83
+peeph.def:882: %4 has no operand on the SM83
+peeph.def:893: %3 has no operand on the SM83
+peeph.def:902: %4 has no operand on the SM83
+peeph.def:911: %4 has no operand on the SM83
+peeph.def:925: %4 has no operand on the SM83
+peeph.def:936: %4 has no operand on the SM83
+peeph.def:965: %4 has no operand on the SM83
+peeph.def:979: %4 has no operand on the SM83
+peeph.def:993: %4 has no operand on the SM83
+peeph.def:1004: %4 has no operand on the SM83
+peeph.def:1052: %4 has no operand on the SM83
+peeph.def:1071: %2 has no operand on the SM83
+peeph.def:1106: %2 has no operand on the SM83
+peeph.def:1484: %2 is an opcode without same()
+peeph.def:1606: %2 has no operand on the SM83
+peeph.def:1630: %2 has no operand on the SM83
+peeph.def:1657: %2 has no operand on the SM83
+peeph.def:1758: notUsed(iy) never holds
+peeph.def:1769: an assertion, not an instruction
+peeph.def:1782: an assertion, not an instruction
+peeph.def:1794: an assertion, not an instruction
+peeph.def:1909: %3 has no operand on the SM83
+peeph.def:1920: %3 has no operand on the SM83
+peeph.def:2428: for other ports
+peeph.def:2436: for other ports
+peeph.def:2446: for other ports
+peeph.def:2458: for other ports
+peeph.def:2472: for other ports
+peeph.def:2484: %1 has no operand on the SM83
+peeph.def:2496: %1 has no operand on the SM83
+peeph.def:2517: for other ports
+peeph.def:2889: %3 has no operand on the SM83
+peeph.def:2898: %3 has no operand on the SM83
+peeph.def:2909: %3 has no operand on the SM83
+peeph.def:2920: %2 has no operand on the SM83
+peeph.def:3041: for other ports
+peeph.def:3049: for other ports
+peeph.def:3057: for other ports
+peeph.def:3068: %1 has no operand on the SM83
+peeph.def:3076: for other ports
+peeph.def:3135: for other ports
+peeph.def:3186: for other ports

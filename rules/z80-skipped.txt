@@ -1,0 +1,11 @@
+peeph.def:27: for other ports
+peeph.def:640: canAssign() never holds
+peeph.def:647: canAssign() never holds
+peeph.def:1484: %2 is an opcode without same()
+peeph.def:1769: an assertion, not an instruction
+peeph.def:1782: an assertion, not an instruction
+peeph.def:1794: an assertion, not an instruction
+peeph.def:3057: for other ports
+peeph.def:3076: for other ports
+peeph.def:3135: for other ports
+peeph.def:3164: for other ports
