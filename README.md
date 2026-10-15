@@ -1,5 +1,25 @@
 # alive-sdcc
 
+## SDCC tickets and fixes
+
+| Ticket | Title |
+| --- | --- |
+| [#4115](https://sourceforge.net/p/sdcc/bugs/4115/) | z80: peephole 97b stores the wrong byte of a 16-bit constant |
+| [#4123](https://sourceforge.net/p/sdcc/bugs/4123/) | Too many untested peephole optimizer rules in z80 port |
+
+| Revision | Change |
+| --- | --- |
+| [r16987](https://sourceforge.net/p/sdcc/code/16987/) | Fixes 97b (#4115) and adds a regression test |
+| [r16988](https://sourceforge.net/p/sdcc/code/16988/) | Removes untested rules suspected to be broken, in `peeph.def` and `peeph-sm83.def` |
+| [r16995](https://sourceforge.net/p/sdcc/code/16995/) | Removes two rules that improve no regression test and fixes others |
+| [r16996](https://sourceforge.net/p/sdcc/code/16996/) | Removes more rules that improve no regression test |
+| [r16997](https://sourceforge.net/p/sdcc/code/16997/) | Adds tests for rules no longer triggered by other tests (#4123) |
+| [r17003](https://sourceforge.net/p/sdcc/code/17003/) | Adds tests for rules (#4123) |
+| [r17008](https://sourceforge.net/p/sdcc/code/17008/) | Adds another test for rules (#4123) |
+| [r17009](https://sourceforge.net/p/sdcc/code/17009/) | Removes untested rules for which no tests were found (#4123, #4115) |
+
+---
+
 Checks SDCC's Z80 and SM83 peephole rules (`src/z80/peeph*.def`) with
 [Alive2](https://github.com/AliveToolkit/alive2). Each rule is turned into a
 rule of `z80-test` from [z80-lift](https://github.com/llvm-z80/z80-lift),
